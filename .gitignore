@@ -16,6 +16,7 @@ cmake_install.cmake
 Makefile
 *.cmake
 
+pybind11/
 .vscode/
 .idea/
 *.swp
